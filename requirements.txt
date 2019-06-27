@@ -1,0 +1,11 @@
+flask-jwt-extended==3.19.0
+flask-marshmallow==0.10.1
+flask-restful==0.3.7
+flask==1.0.3
+marshmallow-sqlalchemy==0.17.0
+marshmallow==3.0.0b8
+psycopg2==2.8.3
+python-dotenv==0.10.3
+flask-sqlalchemy==2.4.0
+werkzeug==0.15.4
+uwsgi
